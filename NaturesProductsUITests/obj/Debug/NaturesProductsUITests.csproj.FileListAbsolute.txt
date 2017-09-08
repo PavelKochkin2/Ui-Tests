@@ -1,0 +1,158 @@
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\ApplicationInsights.config
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\chromedriver.exe
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\roslyn\csc.exe
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\roslyn\vbc.exe
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\roslyn\VBCSCompiler.exe
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\Pashok.dll.config
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\Pashok.dll
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\Pashok.pdb
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\Atata.Bootstrap.dll
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\Atata.dll
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\Atata.KendoUI.dll
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\Atata.WebDriverExtras.dll
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\Microsoft.AI.Web.dll
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\nunit.framework.dll
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\WebDriver.dll
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\WebDriver.Support.dll
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\Atata.xml
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\Atata.Bootstrap.xml
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\Atata.KendoUI.xml
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\Atata.WebDriverExtras.xml
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\Microsoft.AI.Web.xml
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\nunit.framework.xml
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\WebDriver.xml
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\bin\WebDriver.Support.xml
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\obj\Debug\NaturesProductsUITests.csprojResolveAssemblyReference.cache
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\obj\Debug\Pashok.dll
+C:\Users\pavel.kochkin\Documents\Visual Studio 2015\Projects\Pashok\Pashok\obj\Debug\Pashok.pdb
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\ApplicationInsights.config
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\chromedriver.exe
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\roslyn\csc.exe
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\roslyn\System.Collections.Immutable.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\roslyn\System.Reflection.Metadata.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\roslyn\vbc.exe
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\roslyn\VBCSCompiler.exe
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\roslyn\VBCSCompiler.exe.config
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\NaturesProductsUITests.dll.config
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\NaturesProductsUITests.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\NaturesProductsUITests.pdb
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\Atata.Bootstrap.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\Atata.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\Atata.KendoUI.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\Atata.WebDriverExtras.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\Microsoft.AI.Agent.Intercept.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\Microsoft.AI.DependencyCollector.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\Microsoft.AI.Web.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\Microsoft.AI.WindowsServer.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\Microsoft.ApplicationInsights.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\nunit.framework.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\WebDriver.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\WebDriver.Support.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\Atata.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\Atata.Bootstrap.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\Atata.KendoUI.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\Atata.WebDriverExtras.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\Microsoft.AI.DependencyCollector.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\Microsoft.AI.Web.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\Microsoft.AI.WindowsServer.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\Microsoft.ApplicationInsights.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\nunit.framework.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\WebDriver.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\bin\WebDriver.Support.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\obj\Debug\NaturesProductsUITests.csprojResolveAssemblyReference.cache
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\obj\Debug\NaturesProductsUITests.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\Pashok\obj\Debug\NaturesProductsUITests.pdb
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\chromedriver.exe
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\roslyn\csc.exe
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\roslyn\System.Collections.Immutable.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\roslyn\System.Reflection.Metadata.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\roslyn\vbc.exe
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\roslyn\VBCSCompiler.exe
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\roslyn\VBCSCompiler.exe.config
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\NaturesProductsUITests.dll.config
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\NaturesProductsUITests.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\NaturesProductsUITests.pdb
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Atata.Bootstrap.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Atata.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Atata.KendoUI.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Atata.WebDriverExtras.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Microsoft.AI.Agent.Intercept.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Microsoft.AI.DependencyCollector.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Microsoft.AI.Web.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Microsoft.AI.WindowsServer.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Microsoft.ApplicationInsights.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\nunit.framework.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\WebDriver.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\WebDriver.Support.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Atata.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Atata.Bootstrap.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Atata.KendoUI.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Atata.WebDriverExtras.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Microsoft.AI.DependencyCollector.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Microsoft.AI.Web.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Microsoft.AI.WindowsServer.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Microsoft.ApplicationInsights.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\nunit.framework.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\WebDriver.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\WebDriver.Support.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\obj\Debug\NaturesProductsUITests.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\obj\Debug\NaturesProductsUITests.pdb
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\obj\Debug\NaturesProductsUITests.csprojResolveAssemblyReference.cache
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\NaturesProducts.DA.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\log4net.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\NaturesProducts.DA.pdb
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\log4net.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Newtonsoft.Json.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Newtonsoft.Json.xml
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Microsoft.SqlServer.ConnectionInfo.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Microsoft.SqlServer.Smo.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Microsoft.SqlServer.SqlEnum.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Microsoft.SqlServer.Dmf.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\NunitVideoRecorder.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\SharpAvi.dll
+C:\MyProjects\dev\src-multicompany-demo\NaturesProductsUITests\NaturesProductsUITests\bin\SharpAvi.xml
